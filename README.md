@@ -4,12 +4,12 @@ Liribot is a CLI helper which can be used to look up information on songs, conce
 
 ## Installation Instructions
 
-1 Clone the the repo from github.
-2 Run `npm install` in the cloned folder.
-3 Create a `.env` file
-4 in the `.env` file, add `SPOTIFY_ID=` and `SPOTIFY_SECRET=` variables
-5 Get spotify api keys from [Spotify](https://developer.spotify.com/) and add those to the variables in your `.env` file.
-6 You're now ready to use Liribot.
+* Clone the the repo from github.
+* Run `npm install` in the cloned folder.
+* Create a `.env` file
+* in the `.env` file, add `SPOTIFY_ID=` and `SPOTIFY_SECRET=` variables
+* Get spotify api keys from [Spotify](https://developer.spotify.com/) and add those to the variables in your `.env` file.
+* You're now ready to use Liribot.
 
 ## Usage
 
