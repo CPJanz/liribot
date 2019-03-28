@@ -2,6 +2,10 @@
 
 Liribot is a CLI helper which can be used to look up information on songs, concert tour dates, and movies using various APIs.
 
+## Usage
+
+node liri.js `<command>` `<search terms>`
+
 ## Commands Available
 
 ### concert-this
